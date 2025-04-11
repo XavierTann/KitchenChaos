@@ -1,2 +1,2 @@
 # KitchenChaos
-KitchenChaos is a cooking game, similar to the game Overcooked. This was my personal project, done through Unity. 
+KitchenChaos is a fast-paced, multiplayer cooking game inspired by Overcooked. Developed as a personal project in Unity, it showcases my skills in game design, programming, and collaborative gameplay mechanics.
